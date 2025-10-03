@@ -17,12 +17,12 @@ I am a passionate and mission-driven developer, and visionary leader using **tec
   - UI/UX systems in Flutter for complex use-cases
 
 ### 💡 My Life Pillars:
-- **Tech** → [LinkedIn](https://www.linkedin.com/in/iamdavidonuche-4b0782239/)  
+- **Tech** → [LinkedIn](https://www.linkedin.com/in/david-onuche-4b0782239/)  
 - **Politics** → [Twitter](https://x.com/iamdavidonuche)  
 - **Business** → [Instagram](https://www.instagram.com/iamdavidonuche/)  
 - **Faith** → [TikTok](https://www.tiktok.com/@iamdavidonuche)
-- **All Round** → [YouTube](https://youtube.com/@iamdavidonuche)
-- **Website** → [iamdavidonuche.com](https://iamdavidonuche.com)
+- **All Round** → [YouTube](https://www.youtube.com/@iamdavidonuche)
+- **Website** → [iamdavidonuche.com](https://david-onuche.lovable.app/)
 
   
 
@@ -98,6 +98,6 @@ I am a passionate and mission-driven developer, and visionary leader using **tec
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/iamdavidonuche/iamdavidonuche/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/david-onuche/david-onuche/output/github-contribution-grid-snake.svg)
 
 ---
