@@ -75,17 +75,17 @@ I am a passionate and mission-driven developer, and visionary leader using **tec
 ## 🪪 Profile Summary
 
 <p align="center">
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamdavidonuche&theme=github_dark"/>
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamdavidonuche&theme=github_dark&utcOffset=8"/>
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=david-onuche&theme=github_dark"/>
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=david-onuche&theme=github_dark&utcOffset=8"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamdavidonuche&theme=github_dark"/>
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamdavidonuche&theme=github_dark"/>
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=david-onuche&theme=github_dark"/>
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=david-onuche&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamdavidonuche&theme=github_dark"/>
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=david-onuche&theme=github_dark"/>
 </p>
 
 ---
