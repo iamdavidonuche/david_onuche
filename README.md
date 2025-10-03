@@ -92,7 +92,7 @@ I am a passionate and mission-driven developer, and visionary leader using **tec
 
 ## 📈 Contribution Graph
 
-[![David's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamdavidonuche&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![David's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=david-onuche&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
