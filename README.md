@@ -1,8 +1,8 @@
 # 👋 Hi, I am David Onuche
 
-**Senior Software Developer | Tech Strategist | Nation Builder**
+**Software Developer | Tech Strategist | Flutter Developer**
 
-I am a passionate and mission-driven developer, and visionary leader using **technology** to drive transformational change.
+I am David Onuche, my goal is to build people and systems that transform lives and nations.
 
 ---
 
